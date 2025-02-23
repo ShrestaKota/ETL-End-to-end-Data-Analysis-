@@ -1,4 +1,4 @@
-# ETL Project: Sales Data Analysis
+# ETL Project: End-to-end Sales Data Analysis
 
 ## Overview
 This project demonstrates an **end-to-end ETL (Extract, Transform, Load) pipeline** for sales data analysis. The data is extracted from **Kaggle API**, cleaned using **pandas**, and loaded into **SQL Server** for further analysis. Several SQL queries are then used to derive insights, including revenue analysis, sales growth trends, and category-wise performance.
